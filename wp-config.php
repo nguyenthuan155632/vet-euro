@@ -31,7 +31,7 @@ define('DB_USER', 'vensera');
 define('DB_PASSWORD', '15563200025ff0');
 
 /** MySQL hostname */
-define('DB_HOST', 'vensera.cisdtmhkjjzs.ap-northeast-1.rds.amazonaws.com');
+define('DB_HOST', 'venseradb.ceoze0wmec82.ap-northeast-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
